@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/export.png</file>
+        <file>images/import.png</file>
+        <file>images/set.png</file>
+        <file>images/synchronous.png</file>
+        <file>images/upload.png</file>
+        <file>images/about.png</file>
+        <file>images/manage_menus.png</file>
+        <file>images/manage_take_away.png</file>
+        <file>images/exit.png</file>
+        <file>images/0.png</file>
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/background.jpg</file>
+        <file>SwitchButton.qml</file>
+        <file>images/course.png</file>
+        <file>images/down-arrow.png</file>
+        <file>images/search.png</file>
+        <file>images/listview.png</file>
+        <file>images/OpenMenus.png</file>
+        <file>IconView.qml</file>
+    </qresource>
+</RCC>
