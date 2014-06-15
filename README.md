@@ -5,3 +5,4 @@ openmenus
 
 测试环境：
 - Qt 4.8.x
+- Mini2440
